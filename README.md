@@ -1,5 +1,5 @@
 # Open Source Audit Project
-**OSS NGMC Course - VIT**
+**OSS NGMC Course - VIT BHOPAL**
 
 ---
 
